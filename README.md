@@ -1,9 +1,8 @@
-# Source codes of latest WCH OpenOCD
+# Source codes of official WCH OpenOCD (2023 version)
 
-This repo is the latest source (2024 version) of WCH OpenOCD.
+This repo is the source of official WCH OpenOCD (2023 version).
 
-- work with all known WCH-LinkE debuggers, include WCH-LinkE r0 1v2 / r0 1v3.
-- support program / debug all WCH ch32v/x/l series MCUs.
+For latest source of official WCH OpenOCD, please go to https://github.com/cjacker/wch-openocd
 
 ## Installation
 
