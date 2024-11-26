@@ -1,6 +1,6 @@
-# Source codes of official WCH OpenOCD (2023 version)
+# Source codes of official WCH OpenOCD (2023-10-11 version)
 
-This repo is the source of official WCH OpenOCD (2023 version).
+This repo is the source of official WCH OpenOCD **(2023-10-11 version)**.
 
 For latest source of official WCH OpenOCD, please go to https://github.com/cjacker/wch-openocd
 
