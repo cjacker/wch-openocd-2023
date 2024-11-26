@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "wch_riscv.h": "c"
+    }
+}
